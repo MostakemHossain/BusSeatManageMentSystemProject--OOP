@@ -1,8 +1,8 @@
 # BusSeatManageMentSystemProject--OOP
 
 #Team Etherium [Team Project]
-#Diganta Saha
+# Diganta Saha
 
-#nafian Khan molish
+# Nafian Khan molish
 
 # Mostakem Hossain Obhe
